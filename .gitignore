@@ -1,1 +1,18 @@
 target/
+
+# added by commit-and-push-all
+__pycache__/
+*.pyc
+*.pyd
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+node_modules/
+.cache/
+.wrangler/
+.DS_Store
+*.log
+.env
